@@ -2,9 +2,7 @@ cv:
   name: "Divya Rana"
   headline: "Postdoctoral Researcher in Observational Cosmology"
   location: "Leiden, The Netherlands"
-  email:
-    - "rana@strw.leidenuniv.nl"
-    - "divyarana757@gmail.com"
+  email: "rana@strw.leidenuniv.nl"
   sections:
     summary:
       - "Postdoctoral researcher in observational cosmology specializing in large-scale structure, galaxy–halo connections, and weak gravitational lensing. Key Project Coordinator for the Euclid Mission DR1 with experience leading international collaborations and developing precision cosmology analyses."
