@@ -8,6 +8,12 @@ cv:
 
   sections:
 
+    Interests:
+      - name: Cosmology
+        icon: fa-solid fa-tag
+        keywords: Large-scale structure and observational cosmology, Galaxy–halo connections using weak lensing, Dark matter halo environments, Gravitational-wave cosmology
+
+
     Education:
       - institution: Inter-University Centre for Astronomy and Astrophysics (IUCAA)
         area: Astronomy and Astrophysics
@@ -15,8 +21,8 @@ cv:
         start_date: 2019
         end_date: 2023
         highlights:
-          - Thesis: Probing Cosmology with Large Scale Structure Correlations
-          - Advisor: Prof. Surhud S. More
+          - "Thesis: Probing Cosmology with Large Scale Structure Correlations"
+          - "Advisor: Prof. Surhud S. More"
 
       - institution: National Institute of Science Education and Research (NISER)
         area: Physics
@@ -24,7 +30,7 @@ cv:
         start_date: 2013
         end_date: 2018
         highlights:
-          - Master’s Thesis: Similarities between freely cooling granular gases and LSS formation under gravity
+          - "Master’s Thesis: Similarities between freely cooling granular gases and LSS formation under gravity"
 
     Experience:
       - company: Leiden Observatory, Leiden University
@@ -35,7 +41,7 @@ cv:
         highlights:
           - Research on galaxy–halo connections using weak gravitational lensing and clustering
           - Analysis of large survey data for cosmological inference
-          - Supervisor: Prof. Dr. Henk Hoekstra
+          - "Supervisor: Prof. Dr. Henk Hoekstra"
 
       - company: Euclid Mission
         position: Key Project Coordinator (DR1)
@@ -56,20 +62,6 @@ cv:
           - Graduate research program in astronomy and astrophysics
 
     Volunteer:
-      - company: LEAPS Program
-        position: Organizer
-        location: Leiden
-        start_date: 2023
-        end_date: ""
-        highlights:
-          - Organizer of summer student astrophysics program
-
-      - company: IUCAA Science Popularization Committee
-        position: Member
-        location: Pune, India
-        start_date: 2018
-        end_date: 2023
-
     Awards:
       - title: Leids Kerkhoven-Bosscha Fonds Grant
         date: 2025
@@ -103,15 +95,9 @@ cv:
         level: Advanced
         keywords: LaTeX, MS Office
 
-    Interests:
-      - Large-scale structure and observational cosmology
-      - Galaxy–halo connections using weak lensing
-      - Dark matter halo environments
-      - Gravitational-wave cosmology
-
     References:
       - name: Prof. Surhud S. More
-        reference: IUCAA, India. surhud@iucaa.in
+        reference: IUCAA, India. 
 
       - name: Prof. Hironao Miyatake
         reference: Nagoya University, Japan
