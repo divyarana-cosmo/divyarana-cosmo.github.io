@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher &middot; <a href='https://www.universiteitleiden.nl/en/staffmembers/divya-rana'>Leiden Observatory, Leiden University</a>
 

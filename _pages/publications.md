@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Papers in reverse chronological order. <sup>†</sup> marks a student supervised or mentored by me. The complete list is on <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Rana%2C%20Divya%22&sort=date%20desc">NASA ADS</a>.
 nav: true
 nav_order: 3

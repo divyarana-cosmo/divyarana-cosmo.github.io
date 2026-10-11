@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Weak lensing and galaxy clustering, from the stellar mass inside galaxies to the edges of dark matter halos and the expansion of the Universe.
 nav: true
 nav_order: 2
