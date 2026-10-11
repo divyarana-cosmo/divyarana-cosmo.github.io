@@ -4,106 +4,120 @@ cv:
   email: rana@strw.leidenuniv.nl
   location: Leiden, The Netherlands
   image: ""
-  summary: Postdoctoral researcher in observational cosmology specializing in large-scale structure, galaxy–halo connections, and weak gravitational lensing.
+  summary: Observational cosmologist using weak lensing and galaxy clustering to connect galaxies to their dark matter halos across scales, from the stellar initial mass function (IMF) to halo outskirts and to cosmology with cosmic shear and gravitational-wave sirens. I combine Euclid, HSC and eROSITA data with image simulations, and coordinate galaxy–galaxy lensing for Euclid Data Release 1.
 
   sections:
-
     Interests:
-      - name: Cosmology
+      - name: Cosmology and large-scale structure
         icon: fa-solid fa-tag
-        keywords: Large-scale structure and observational cosmology, Galaxy–halo connections using weak lensing, Dark matter halo environments, Gravitational-wave cosmology
-
-
-    Education:
-      - institution: Inter-University Centre for Astronomy and Astrophysics (IUCAA)
-        area: Astronomy and Astrophysics
-        studyType: PhD
-        start_date: 2019
-        end_date: 2023
-        highlights:
-          - "Thesis: Probing Cosmology with Large Scale Structure Correlations"
-          - "Advisor: Prof. Surhud S. More"
-
-      - institution: National Institute of Science Education and Research (NISER)
-        area: Physics
-        studyType: MSc
-        start_date: 2013
-        end_date: 2018
-        highlights:
-          - "Master’s Thesis: Similarities between freely cooling granular gases and LSS formation under gravity"
+        keywords: Galaxy–halo connection with lensing and clustering, Halo outskirts and splashback, Environment, Gravitational-wave cosmology, Tests of ΛCDM
+      - name: Galaxies and methods
+        icon: fa-solid fa-tag
+        keywords: Stellar IMF and galaxy mass budgets, Weak-lensing image simulations and calibration, Photometric-redshift calibration
 
     Experience:
       - company: Leiden Observatory, Leiden University
         position: Postdoctoral Researcher
         location: Leiden, The Netherlands
         start_date: 2023-10
-        end_date: ""
+        end_date: Present
         highlights:
-          - Research on galaxy–halo connections using weak gravitational lensing and clustering
-          - Analysis of large survey data for cosmological inference
           - "Supervisor: Prof. Dr. Henk Hoekstra"
 
-      - company: Euclid Mission
-        position: Key Project Coordinator (DR1)
-        location: Europe
-        start_date: 2025-01
-        end_date: ""
+      - company: Euclid Consortium
+        position: Key Project Coordinator, Galaxy–Galaxy Lensing, Data Release 1
+        start_date: 2025
+        end_date: Present
         highlights:
-          - Coordinating Euclid DR1 galaxy–galaxy lensing products
-          - Managing cross-working group timelines
-          - Consortium coordination role
+          - Coordinate the multi-institute, cross-working-group delivery of the DR1 galaxy–galaxy lensing science products (timelines, milestones, communication)
+          - Liaison to Euclid Consortium management
 
-      - company: IUCAA
-        position: Junior Research Fellow
-        location: Pune, India
-        start_date: 2018
-        end_date: 2019
+    Education:
+      - institution: Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India
+        area: Physics
+        studyType: PhD
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Graduate research program in astronomy and astrophysics
+          - "Thesis: Probing Cosmology with Large Scale Structure Correlations"
+          - "Advisor: Prof. Surhud S. More"
+          - Junior Research Fellow, IUCAA Graduate School Program (2018–2019)
 
-    Volunteer:
+      - institution: National Institute of Science Education and Research (NISER), India
+        area: Physics
+        studyType: Integrated MSc
+        start_date: 2013
+        end_date: 2018
+        highlights:
+          - "Thesis: Similarities between freely cooling granular gases and LSS formation under gravity"
+          - "Advisors: Prof. Nishikanta Khandai, Prof. Anamitra Mukherjee"
+
     Awards:
-      - title: Leids Kerkhoven-Bosscha Fonds Grant
+      - title: Leids Kerkhoven-Bosscha Fonds grant
         date: 2025
         awarder: LKBF
-        summary: Grant for invited talk at Shanghai Jiao Tong University
+        summary: Travel grant for an invited talk at Shanghai Jiao Tong University
 
-      - title: Erasmus+ Grant
+      - title: Erasmus+ grant
         date: 2024
         awarder: European Union
-        summary: Lecture series in Colombia
+        summary: Lecture series at Universidad de Antioquia, Colombia
 
-      - title: PAVES Visitor Exchange Program
+      - title: Program for Astrophysics Visitor Exchange at Stanford (PAVES)
         date: 2020
         awarder: Stanford University
-        summary: Astrophysics exchange program
+        summary: Selected visitor
 
-      - title: CSIR–NET (JRF)
-        date: 2017
+      - title: All India Rank 17 (JEST) and 100 (CSIR-NET JRF)
+        date: 2018
         awarder: Government of India
+        summary: PhD offers from IISc, NCRA–TIFR and IISER Mohali
+
+      - title: INSPIRE Scholarship
+        date: 2013–2018
+        awarder: Department of Science and Technology, Government of India
+
+    Supervision and Mentoring:
+      - bullet: "**PhD co-supervision:** Gimena Martín Girardi (Leiden, since 2024); environment-dependent halo model with FLAMINGO."
+      - bullet: "**LEAPS summer students:** Leonid Sajkov (2024; now PhD student, Stanford); Dannaé Díaz-Axtle (2025; now PhD student, Durham; first-author paper [arXiv:2609.15416](https://arxiv.org/abs/2609.15416)); Yu Ting (2026)."
+      - bullet: "**Undergraduates (Leiden University):** Sanne Bosch (2024–2025); Milan Tol (2025–2026); Hugo Bogaart (since 2026)."
+      - bullet: "**IUCAA PhD mentees:** Jitendra Joshi (PRD 2026; [arXiv:2609.15375](https://arxiv.org/abs/2609.15375)); Amit Kumar (MNRAS 2022)."
+
+    Teaching:
+      - bullet: "**Co-lecturer**, _Weak Gravitational Lensing_, Leiden University (2026)."
+      - bullet: "**Invited lecturer**, one-week weak-lensing course with tutorials, Astronomy Twinning Program (Leiden Observatory–Universidad de Antioquia), Medellín, Colombia (2024; Erasmus+ funded)."
+
+    Selected Talks:
+      - bullet: "**Plenary:** Clustering the Cosmos: From Galaxy Formation to the Expansion of the Universe, _NAC 2026_, Netherlands (2026)."
+      - bullet: "**Invited:** Expanding the boundaries of dark matter halos, Shanghai Jiao Tong University, China (2025)."
+      - bullet: "**Invited:** Expansion rate from GW–galaxy cross-correlations, _21st Century Cosmology_, Ashoka University, India (2024)."
+      - bullet: "Galaxy–halo connection using the HSC survey, _Euclid WL SWG Meeting_, Innsbruck, Austria (2024)."
+      - bullet: "Seminars at Kavli IPMU and ICRR, Tokyo (2022): HSC halo boundaries; invisible sirens."
+      - bullet: "Weak lensing of GAMA galaxy groups with Subaru HSC, _ICGC_, IISER Mohali, India (2020)."
+
+    Service and Outreach:
+      - bullet: "Referee for _The Astrophysical Journal_ and _Astronomy & Astrophysics_."
+      - bullet: "Organizer, Leiden/ESA Astrophysics Program for Summer Students (LEAPS)."
+      - bullet: "Research featured in [_Nature India_](https://www.nature.com/articles/d44151-026-00058-0) (March 2026)."
+      - bullet: "Member, Science Popularization Committee, IUCAA."
+      - bullet: "**Memberships:** Euclid Consortium; HSC Collaboration; LIGO Scientific Collaboration; eROSITA (external collaborator)."
 
     Skills:
       - name: Programming
-        level: Advanced
-        keywords: Python, C, C++, Mathematica
-
-      - name: Systems
-        level: Advanced
-        keywords: Linux, macOS, Windows
-
-      - name: Markup
-        level: Advanced
-        keywords: LaTeX, MS Office
+        keywords: Python (scientific stack, GalSim), C, C++, Mathematica
+      - name: Astronomy software
+        keywords: SExtractor, Galfit
+      - name: Tools
+        keywords: LaTeX, Linux, macOS
 
     References:
+      - name: Prof. Dr. Henk Hoekstra
+        reference: Leiden University, The Netherlands
+      - name: Prof. Dr. Konrad Kuijken
+        reference: Leiden University, The Netherlands
       - name: Prof. Surhud S. More
-        reference: IUCAA, India. 
-
+        reference: IUCAA, Pune, India
       - name: Prof. Hironao Miyatake
-        reference: Nagoya University, Japan
-
+        reference: KMI, Nagoya University, Japan
       - name: Prof. Sukanta Bose
         reference: Washington State University, USA
-
-      - name: Dr. Sayantani Bera
-        reference: University of the Balearic Islands, Spain
