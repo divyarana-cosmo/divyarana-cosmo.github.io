@@ -26,6 +26,7 @@ cv:
 
       - company: Euclid Consortium
         position: Key Project Coordinator, Galaxy–Galaxy Lensing, Data Release 1
+        url: https://www.euclid-ec.org/about/contact/dr1-key-project-leads/
         start_date: 2025
         end_date: Present
         highlights:
@@ -78,7 +79,7 @@ cv:
         awarder: Department of Science and Technology, Government of India
 
     Supervision and Mentoring:
-      - bullet: "**PhD co-supervision:** Gimena Martín Girardi (Leiden, since 2024); environment-dependent halo model with FLAMINGO."
+      - bullet: "**PhD co-supervision:** Gimena Martín Girardi (Leiden, since 2024); environment-dependent halo model with FLAMINGO ([arXiv:2610.23997](https://arxiv.org/abs/2610.23997))."
       - bullet: "**LEAPS summer students:** Leonid Sajkov (2024; now PhD student, Stanford); Dannaé Díaz-Axtle (2025; now PhD student, Durham; first-author paper [arXiv:2609.15416](https://arxiv.org/abs/2609.15416)); Yu Ting (2026)."
       - bullet: "**Undergraduates (Leiden University):** Sanne Bosch (2024–2025); Milan Tol (2025–2026); Hugo Bogaart (since 2026)."
       - bullet: "**IUCAA PhD mentees:** Jitendra Joshi (PRD 2026; [arXiv:2609.15375](https://arxiv.org/abs/2609.15375)); Amit Kumar (MNRAS 2022)."

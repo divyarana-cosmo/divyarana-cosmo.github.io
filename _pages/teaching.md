@@ -16,7 +16,7 @@ nav_order: 4
 
 **PhD co-supervision**
 
-- Gimena Martín Girardi (Leiden, since 2024): an environment-dependent halo model calibrated on the FLAMINGO simulations (paper in preparation).
+- Gimena Martín Girardi (Leiden, since 2024): an environment-dependent halo model calibrated on the FLAMINGO simulations ([arXiv:2610.23997](https://arxiv.org/abs/2610.23997)).
 
 **Leiden/ESA Astrophysics Program for Summer Students (LEAPS)**
 

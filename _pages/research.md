@@ -61,6 +61,23 @@ Dark matter halos are usually given a size defined by an arbitrary density thres
 
 ---
 
+## Environment in the halo model
+
+Lensing studies often split galaxies by their environment, or by properties that correlate with it such as colour and morphology, and then interpret the signal with a halo model that assumes halo properties depend on mass alone. Using the FLAMINGO hydrodynamical simulations, we assigned each halo a local density from the number of neighbouring halos within spheres of 1 to 10 $$h^{-1}$$ Mpc. The halo mass function and the halo bias both depend strongly on environment, and we proposed a simple modification that adds this dependence to existing mass-function prescriptions. The stellar-to-halo mass relation and the mass–concentration relation also change with environment, and ignoring this biases the stellar-to-halo mass relation and satellite fraction inferred from density-split galaxy–galaxy lensing.
+
+<div class="row justify-content-center mt-3">
+  <div class="col-sm-5 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/research/flamingo_env_hmf.png" title="Halo mass function in different environments" alt="Halo mass function in underdense, intermediate and overdense regions of the FLAMINGO simulation" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  Halo mass functions at z = 0 in underdense (blue), intermediate (yellow) and overdense (red) regions of FLAMINGO, with density measured within 3 h<sup>-1</sup> Mpc. Circles are the simulation, solid lines our modified mass function, and dotted lines the Tinker et al. (2010) mass function with a free collapse threshold.
+</div>
+
+**Paper:** [Martín Girardi<sup>†</sup>, Rana, Hoekstra, Schaye & Schaller (2026), arXiv:2610.23997](https://arxiv.org/abs/2610.23997)
+
+---
+
 ## The galaxy–halo connection with weak lensing
 
 Weak lensing measures halo masses directly, without assuming dynamical equilibrium. Combining spectroscopic galaxy groups from GAMA with Subaru HSC lensing, we measured how group halo mass scales with luminosity and velocity dispersion, constraining the mass–luminosity relation to 5%. With HSC lensing we have also measured how galaxy size relates to halo radius across stellar mass, and, in a student-led study, set the first empirical upper limit on the fraction of "orphan" satellite galaxies in clusters.
@@ -110,7 +127,6 @@ Merging binary black holes are standard sirens: their gravitational waves give t
 ## Also in progress
 
 - **Halo assembly in cosmic filaments:** how the large-scale velocity field shapes halo mass assembly ([Díaz-Axtle<sup>†</sup> et al. 2026, arXiv:2609.15416](https://arxiv.org/abs/2609.15416)).
-- **Environment in the halo model:** an environment-dependent halo model calibrated on the FLAMINGO simulations (Martín Girardi<sup>†</sup> et al., in preparation).
 - **Euclid DR1 galaxy–galaxy lensing:** coordinating the Key Project that will deliver Euclid's first galaxy–galaxy lensing science products.
 
 <sup>†</sup> Student supervised or mentored by D. Rana. See the full list on the [publications]({{ '/publications/' | relative_url }}) page.
